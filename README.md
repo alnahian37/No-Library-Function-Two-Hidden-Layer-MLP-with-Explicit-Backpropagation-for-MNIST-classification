@@ -1,6 +1,5 @@
 # Two-Hidden-Layer-MLP-with-Explicit-Backpropagation-for-MNIST-classification
-
-In this project, our goal is to implement techniques to learn a deep neural network with two hidden layers and write code for backpropagation from scratch without
+In this project, the goal is to implement techniques to learn a deep neural network with two hidden layers and write code for backpropagation from scratch without
 using library functions for performing image digit classification. The MNIST
 dataset has been used as the training and testing dataset. The neural network has been trained by
 minimizing the Negative Log Likelihood or cross-entropy loss function of the output nodes.
